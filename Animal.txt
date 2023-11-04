@@ -1,0 +1,7 @@
+fun respirar() {
+	
+}
+
+fun moverse() {
+	
+}
